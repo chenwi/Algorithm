@@ -1,3 +1,4 @@
 # Algorithm
-Probabilistic algorithm
-Approximation algorithm
+- Probabilistic algorithm
+
+- Approximation algorithm
